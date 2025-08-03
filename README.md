@@ -24,4 +24,3 @@ Make sure you have the following libraries installed:
 *   [NumPy](https://numpy.org/)
 *   [Matplotlib](https://matplotlib.org/)
 
-You can install them using pip:
